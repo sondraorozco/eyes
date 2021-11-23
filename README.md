@@ -7,6 +7,7 @@ This project was an assignment for the MIT xPRO Professional Certificate in Codi
 You can run this code locally by downloading all of the files here to a single directory, using the same file structure. Open the `index.html` file in a web browser to load the game.
 
 ## Roadmap: Planned Improvements
+- [ ] Add eyebrows, nose, mouth
 - [ ] Animate the eyes opening and closing, or blinking.
 - [ ] Add option to change the eye color
 
